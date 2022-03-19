@@ -1,0 +1,226 @@
+C:\Users\User\Desktop\bank management system\bank\bank\bin\Debug\bank.exe.config
+C:\Users\User\Desktop\bank management system\bank\bank\bin\Debug\bank.exe
+C:\Users\User\Desktop\bank management system\bank\bank\bin\Debug\bank.pdb
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.Form1.resources
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.exe
+C:\Users\User\Desktop\bank management system\bank\bank\obj\Debug\bank.pdb
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\bin\Debug\bank.exe.config
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\bin\Debug\bank.exe
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\bin\Debug\bank.pdb
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.Form1.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.exe
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.pdb
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.progessbar.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1\bank\bank\obj\Debug\bank.Main.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\bin\Debug\bank.exe.config
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\bin\Debug\bank.exe
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\bin\Debug\bank.pdb
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.Form1.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.Main.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.progessbar.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.exe
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.pdb
+C:\Users\User\Desktop\bank\bank management system DAY 1 prac\bank\bank\obj\Debug\bank.Create_Account.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\bin\Debug\bank.exe.config
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\bin\Debug\bank.exe
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\bin\Debug\bank.pdb
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.Create_Account.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.Form1.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.Main.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.progessbar.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.exe
+C:\Users\User\Desktop\bank management system alhaj day 1\bank management system DAY 3\bank\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Desktop\bank management system DAY 3\bank\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Desktop\bank\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Deposit.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.transfer.resources
+D:\Users\ALFAAZ\Desktop\final\bank  .mubin\bank\obj\Debug\bank.Withdraw.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Deposit.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.transfer.resources
+D:\Users\ALFAAZ\Desktop\bank  .mubin\bank\obj\Debug\bank.Withdraw.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Desktop\back up\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.csprojAssemblyReference.cache
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Deposit.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.transfer.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.Withdraw.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.pdb
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.loan.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.loandetalis.resources
+D:\Users\ALFAAZ\Desktop\back up\bank\obj\Debug\bank.CustomerInfo.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\bank.exe.config
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\bank.exe
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\bank.pdb
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Data.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Web.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\Google.Protobuf.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\Renci.SshNet.dll
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Data.xml
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\bin\Debug\MySql.Web.xml
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.csproj.SuggestedBindingRedirects.cache
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.exe.config
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Create_Account.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.CustomerInfo.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Deposit.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Form1.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.loan.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.loandetalis.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Main.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.progessbar.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Properties.Resources.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.transfer.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.Withdraw.resources
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.csproj.GenerateResource.cache
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.csproj.CopyComplete
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.exe
+D:\Users\ALFAAZ\Downloads\Bank-Mangement-System-main\Bank-Mangement-System-main\bank management sysyem\bank management sysyem\back up\bank\obj\Debug\bank.pdb
